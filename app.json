@@ -1,0 +1,11 @@
+{
+  "name": "Adyen Encryption Service",
+  "description": "A web service to encrypt card data using Adyen encryption.",
+  "repository": "https://github.com/pladixapi/Adyen-Encrypt-PladixApi",
+  "stack": "heroku-20",
+  "buildpacks": [
+    {
+      "url": "heroku/python"
+    }
+  ]
+}
